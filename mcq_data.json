@@ -33,11 +33,7 @@
 
   "questions": [
     {
-      "id": "q1",
-      "setId": "set1",
-      "text": "Which of the following is a limitation or challenge of IoT?",
-      "options": ["Automation", "Security and Privacy", "Efficiency", "Data Access"],
-      "correct": 1
+      "id": "q1","setId": "set1","text": "Which of the following is a limitation or challenge of IoT?","options": ["Automation", "Security and Privacy", "Efficiency", "Data Access"],"correct": 1
     },
     {
       "id": "q2",
